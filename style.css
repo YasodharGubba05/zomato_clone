@@ -1,5 +1,6 @@
 html{
     margin: 0;
+   font-family:  sans-serif;
 }
 body{
     margin: 0;
@@ -8,4 +9,24 @@ body{
     width:100vw;
     height: 430px;
     background-image: url(zomatoimg1.avif);
+}
+.header{
+    display: flex;
+    color: white;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 16px;
+}
+.getapp{
+    margin-left: 70px;
+    margin-top: 19px;
+}
+.relations{
+    margin-left: 200px;
+}
+.signup{
+    margin-right: 200px;
+}
+.header:hover{
+    cursor: pointer;
 }
