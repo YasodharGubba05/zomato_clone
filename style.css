@@ -18,7 +18,7 @@ body{
     font-size: 16px;
 }
 .getapp{
-    margin-left: 70px;
+    margin-left: 90px;
     margin-top: 21px;
 }
 .relations{
@@ -39,9 +39,21 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 42px;
+    margin-top: 45px;
 }
 .img {
     width: 300px;
     height: 60px;
+}
+.maintext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7px;
+}
+.txt{
+    width: 798px;
+    height: 48px;
+    color: white;
+    font-size: 36px;
 }
