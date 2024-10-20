@@ -19,14 +19,28 @@ body{
 }
 .getapp{
     margin-left: 70px;
-    margin-top: 19px;
+    margin-top: 21px;
 }
 .relations{
-    margin-left: 200px;
+    margin-left: 600px;
+    margin-top: 21px;
 }
 .signup{
     margin-right: 200px;
+    margin-top: 21px;
 }
 .header:hover{
     cursor: pointer;
+}
+.add,.login{
+    margin-top: 21px;
+}
+.mainimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img{
+    width: 300px;
+    height: 60px;
 }
