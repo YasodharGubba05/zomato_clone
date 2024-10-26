@@ -63,4 +63,6 @@ body{
     width: 700px;
     margin-left: 360px;
     border-radius: 5px;
+    position: fixed;
+    font-size: 0.9rem;
 }
