@@ -60,9 +60,12 @@ body{
 }
 .search{
     height: 50px;
-    width: 700px;
-    margin-left: 360px;
+    width: 690px;
+    margin-left: 390px;
     border-radius: 5px;
     position: fixed;
     font-size: 0.9rem;
+}
+.orderonline{
+    
 }
