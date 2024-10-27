@@ -75,6 +75,7 @@ body{
   margin-left: 120px;
   margin-top: 40px;
   border-radius: 7px;
+  background-color: lightcoral;
 }
 .orderonline{
     object-fit: cover;
@@ -93,4 +94,8 @@ body{
 }
 .stay{
     margin-bottom: 10px;
+}
+.dine{
+    margin-top: 8px;
+    margin: 0;
 }
