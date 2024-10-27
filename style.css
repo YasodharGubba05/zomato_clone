@@ -77,3 +77,8 @@ body{
   margin-top: 40px;
   border-radius: 4px;
 }
+.orderonline{
+    object-fit: cover;
+    width: 100%;
+    height: 80%;
+}
