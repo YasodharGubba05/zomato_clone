@@ -1,6 +1,7 @@
 html{
     margin: 0;
    font-family:  sans-serif;
+   padding: 0;
    
 }
 body{
@@ -75,7 +76,12 @@ body{
   margin-left: 120px;
   margin-top: 40px;
   border-radius: 7px;
-  background-color: lightcoral;
+}
+.block-one{
+    margin-left: 150px;
+}
+.block-two{
+    margin-right: 100px;
 }
 .orderonline{
     object-fit: cover;
@@ -98,4 +104,14 @@ body{
 .dine{
     margin-top: 8px;
     margin: 0;
+}
+.block-one:hover{
+    transform: scale(1.1);
+    transition-duration: 0.25s;
+    cursor: pointer;   
+}
+.block-two:hover{
+    transform: scale(1.1);
+    transition-duration: 0.25s;
+    cursor: pointer;
 }
