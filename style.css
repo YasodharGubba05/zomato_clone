@@ -136,5 +136,11 @@ body{
     font-weight: 300;
 }
 span{
-    display:block;
+    display: inline-block;
+    margin-left: 50px;
+    color:red;
+    font-weight: 300;
+}
+.img{
+   
 }
