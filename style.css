@@ -141,6 +141,20 @@ span{
     color:red;
     font-weight: 300;
 }
-.img{
-   
+.collect{
+    width: 268px;
+    height: 320px; 
+    margin-left: 145px;
+    display: inline-block;
+    margin-top: 15px;
 }
+.collect-one:hover{
+    cursor: pointer;
+}
+.collect-two:hover{
+    cursor: pointer;
+}
+.collect-three:hover{
+    cursor: pointer;
+}
+
