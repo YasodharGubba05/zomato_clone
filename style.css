@@ -157,16 +157,27 @@ span{
 .collect-three:hover{
     cursor: pointer;
 }
-.application{
-    display: inline;
-}
 .app{
-    margin-top: 120px;
     height: 318px;
     width: 450px;
     margin-left: 50px;
     display: inline;
+    position: relative;
+    display: flex;
+    flex-direction: row;
 }
 .get{
-    margin-bottom: 300px;
+    margin-top: 90px;
+    margin-left: 530px;
+    font-size: 34px;
+    font-weight: 500;
+}
+.we{
+    margin-left: 530px;
+}
+.email{
+    margin-left: 530px;
+    padding: 1.25rem 1.15rem;
+    border-radius: 6px;
+    font-size: 5px;
 }
