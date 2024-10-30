@@ -157,4 +157,9 @@ span{
 .collect-three:hover{
     cursor: pointer;
 }
-
+.app{
+    margin-top: 60px;
+    height: 292px;
+    width: 450px;
+    margin-left: 50px;
+}
