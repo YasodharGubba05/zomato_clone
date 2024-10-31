@@ -206,6 +206,9 @@ span{
     width: 137px;
     height: 40px;
 }
+.apple:hover{
+    cursor: pointer;
+}
 .black{
     width: 132px;
     height: 28px;
