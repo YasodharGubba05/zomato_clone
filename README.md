@@ -1,1 +1,1 @@
-This is a front-end web application project where I recreated the user interface of Zomato, a popular restaurant discovery and food delivery platform. The project is built using HTML and CSS, focusing on replicating the design and layout of the original website.
+A simple front-end clone of Zomato built with HTML and CSS, replicating its modern UI design.
